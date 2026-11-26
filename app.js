@@ -1,2 +1,2 @@
 console.log("Hello")
-console.log("sayhi katuy")
+console.log("ทดลอง Git Pull")
